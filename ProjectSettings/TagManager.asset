@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SingleDot
+  - SplashDot
+  - HealDot
+  - ExtraDot1
+  - ExtraDot2
+  - ExtraDot3
   layers:
   - Default
   - TransparentFX
